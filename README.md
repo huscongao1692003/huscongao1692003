@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using Fullstack knowleage to make websites dynamic. 🕺🏽
+I'm using my knowleage to make websites dynamic. 🕺🏽
 
 **TECH STACK**
 
@@ -11,6 +11,7 @@ I'm using Fullstack knowleage to make websites dynamic. 🕺🏽
   <img src="https://img.shields.io/badge/.net-ffffff?style=for-the-badge&logo=c-sharp&logoColor=9966ff" alt="CSharp"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
@@ -43,8 +44,9 @@ I'm using Fullstack knowleage to make websites dynamic. 🕺🏽
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=33ccff"/>
+  <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
 </div>
 
 ### 🤔 I’m looking for help with
