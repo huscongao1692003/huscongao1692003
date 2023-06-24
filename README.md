@@ -35,6 +35,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 **Other**
 <div display="flex">
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div>
 
 ### 🔭 I’m studying on
