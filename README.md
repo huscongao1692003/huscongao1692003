@@ -82,6 +82,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
   </a>
 </div>
 
+![](https://komarev.com/ghpvc/?username=huscongao1692003)
 ### ⚡ Fun fact
 
 - I'm like to listening to music 👩‍🎤
