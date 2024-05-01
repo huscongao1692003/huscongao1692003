@@ -82,7 +82,26 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=huscongao1692003)
+<p align="center">
+  <a href="https://github.com/huscongao1692003">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=huscongao1692003&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/huscongao1692003">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huscongao1692003&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/huscongao1692003"><img alt="huscongao1692003's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=huscongao1692003&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/huscongao1692003"><img alt="huscongao1692003's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=huscongao1692003&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![ThanhNguyen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=huscongao1692003&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 ### ⚡ Fun fact
 
 - I'm like to listening to music 👩‍🎤
