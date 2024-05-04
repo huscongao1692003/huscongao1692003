@@ -69,8 +69,6 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 ### 🤔 I’m looking for help with
 
 - New Tech
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huscongao1692003&show_icons=true&theme=transparent)
 ### 📫 How to reach me
 
 <div display="flex">
