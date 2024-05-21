@@ -19,6 +19,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
   <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   
   
   
@@ -61,7 +62,6 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=33ccff"/>
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
 </div>
