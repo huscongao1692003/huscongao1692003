@@ -6,6 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=huscongao1692003)
 I'm using my knowleage to make websites dynamic. 🕺🏽
 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 **TECH STACK**
 
 <div display="flex">
@@ -59,6 +60,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div>
 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 ### 🔭 I’m studying on
 
 - FPT University (From 2021)
@@ -73,6 +75,8 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 ### 🤔 I’m looking for help with
 
 - New Tech
+
+  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 ### 📫 How to reach me
 
 <div display="flex">
@@ -102,7 +106,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
   <br/>
 </a>
 
-
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 ![ThanhNguyen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=huscongao1692003&custom_title=ThanhNguyen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
