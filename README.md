@@ -1,3 +1,7 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=huscongao1692003)
 I'm using my knowleage to make websites dynamic. 🕺🏽
@@ -100,7 +104,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 
 
 ![ThanhNguyen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=huscongao1692003&custom_title=ThanhNguyen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <h4 align="center">
   
@@ -134,4 +138,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 ### ⚡ Fun fact
 
 - I'm like to listening to music 👩‍🎤
+ <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/huscongao1692003/spotify-github-profile -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=7i0gz1sVs4w"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 
