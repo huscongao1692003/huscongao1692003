@@ -25,10 +25,16 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
    <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
-  
-  
-  
+   <img src ="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+   <img src ="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+   <img src ="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+   <img src ="https://a11ybadges.com/badge?logo=apachekafka"/>
+   <img src ="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+   <img src ="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+   
+
   
   
   
@@ -38,6 +44,7 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 <div display="flex">
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
   <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/>
+   <img src =" https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </div>
 
 **TOOLS**
@@ -70,6 +77,9 @@ I'm using my knowleage to make websites dynamic. 🕺🏽
 <div display="flex">
   <img src="https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=33ccff"/>
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
 </div>
 
 ### 🤔 I’m looking for help with
